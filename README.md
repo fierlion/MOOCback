@@ -1,4 +1,4 @@
-MOOCback
+fierCoursera
 ========
 
 backup of coursera.org Data Science mooc code
